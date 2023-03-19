@@ -205,7 +205,7 @@ ingress:
   path: /
   hosts:
     - chart-example.local
-  tls: []
+  tls:
     - secretName: chart-example-tls
       hosts:
         - chart-example.local
