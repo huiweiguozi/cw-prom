@@ -6,6 +6,7 @@ replicaCount: 2
 
 image:
   repository: prom/cloudwatch-exporter
+  tag:
   # if not set appVersion field from Chart.yaml is used
   pullPolicy: IfNotPresent
   pullSecrets:
