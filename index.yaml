@@ -3,9 +3,9 @@ entries:
   prometheus-cloudwatch-exporter:
   - apiVersion: v1
     appVersion: 0.15.1
-    created: "2023-03-20T16:53:38.611908+08:00"
+    created: "2023-03-20T17:14:05.502883+08:00"
     description: A Helm chart for prometheus cloudwatch-exporter
-    digest: 720f72ffc47e004d0be79fc89810f94e3c6ced5210ede5578a0b05f6fbbe2e00
+    digest: 0de0b72d17b20eeb754682cb7a0a3487acd408f5769343c15a2bdad89dbd3f38
     home: https://github.com/prometheus/cloudwatch_exporter
     keywords:
     - aws
@@ -25,4 +25,4 @@ entries:
     urls:
     - https://huiweiguozi.github.io/cw-prom/prometheus-cloudwatch-exporter-0.24.0.tgz
     version: 0.24.0
-generated: "2023-03-20T16:53:38.609374+08:00"
+generated: "2023-03-20T17:14:05.498388+08:00"
